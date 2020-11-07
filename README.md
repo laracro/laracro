@@ -1,6 +1,3 @@
-<p align="center">
-  <img align="center" src="https://media.giphy.com/media/gdNmEIkMm2wUpspdTf/giphy.gif"/>
-</p>
 
 ### I am laracro 👋
 
